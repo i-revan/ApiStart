@@ -1,0 +1,12 @@
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\bin\Debug\net6.0\EduHome.Core.deps.json
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\EduHome.Core.csproj.AssemblyReference.cache
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\EduHome.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\EduHome.Core.AssemblyInfoInputs.cache
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\EduHome.Core.AssemblyInfo.cs
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\EduHome.Core.csproj.CoreCompileInputs.cache
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\EduHome.Core.dll
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\refint\EduHome.Core.dll
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\EduHome.Core.pdb
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.Core\obj\Debug\net6.0\ref\EduHome.Core.dll

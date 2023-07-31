@@ -1,0 +1,12 @@
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\bin\Debug\net6.0\EduHome.BusinessLayer.deps.json
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\bin\Debug\net6.0\EduHome.BusinessLayer.dll
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\bin\Debug\net6.0\EduHome.BusinessLayer.pdb
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\EduHome.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\EduHome.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\EduHome.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\EduHome.BusinessLayer.AssemblyInfo.cs
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\EduHome.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\EduHome.BusinessLayer.dll
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\refint\EduHome.BusinessLayer.dll
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\EduHome.BusinessLayer.pdb
+C:\Users\Revan\Desktop\ApiStart\src\EduHome.BusinessLayer\obj\Debug\net6.0\ref\EduHome.BusinessLayer.dll
